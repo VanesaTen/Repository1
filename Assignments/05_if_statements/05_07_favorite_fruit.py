@@ -1,3 +1,5 @@
+# Using lists with if statements
+
 favorite_fruits = ['apple', 'orange', 'peach']
 
 if 'apple' in favorite_fruits:
@@ -11,6 +13,7 @@ if 'apple' in favorite_fruits:
         print("You love grapes!")
     if 'berries' in favorite_fruits:
         print("You love berries!")
+
 
 
 
