@@ -1,4 +1,4 @@
-# problems
+
 
 # problems printing True and False
 
@@ -38,6 +38,7 @@ print(animals == 'bear')
 
 print("\nIs animals == 'wolf'? I predict True.")
 print(animals == 'wolf')
+
 
 
 
