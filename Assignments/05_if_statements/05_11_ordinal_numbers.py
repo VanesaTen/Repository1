@@ -1,4 +1,4 @@
-
+# using python in terminal
 
 
 nums = list(range(1,10))
@@ -12,3 +12,4 @@ for num in nums:
     
     else: 
         print(f"{num}th")
+
