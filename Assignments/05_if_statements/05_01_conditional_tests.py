@@ -1,18 +1,43 @@
 # problems
 
-"""
+# problems printing True and False
 
-I'm pretty sure, that I will come across syntax errors. 
-I tend to forget to add a comma or brackets. Or some type
-of syntax error.
+car = 'Honda'
+print("Is car == 'Honda'? I predict True.")
+print(car == 'Honda') 
 
-I think restricting names that are the same can be useful.
-I can code the program to prevent duplicate names. 
+print("\nIs car == 'Kia'? I predict False.")
+print(car == 'Kia')
 
-The if, else, and elif will be useful to manage scoring
-points in the game I will create.  
+snacks = 'Chips'
+print("\nIs snack == 'Chips'? I predict True.")
+print(snacks == 'Chips') 
 
-Ranging lists can help with structuring the winners of 
-my game. I could number them from 1st to 3rd place.
+print("\nIs Snack == 'Cookies'? I predict False.")
+print(snacks == 'Cookies')
 
-"""
+
+fish = 'salmon'
+print("\nIs fish == 'salmon'? I pridict True.")
+print(fish == 'salmon')
+
+print("\nIs fish == 'catfish'? I predict False.")
+print(snacks == 'Catfish')
+
+
+phones = 'iphone'
+print("\nIs phone == 'iphone'? I predict True.")
+print(phones == 'iphone')
+
+print("\nIs phone == 'galaxy'? I predict True.")
+print(phones == 'galaxy')
+
+animals = 'bear'
+print("\nIs animals == 'bear'? I predict True.")
+print(animals == 'bear')
+
+print("\nIs animals == 'wolf'? I predict True.")
+print(animals == 'wolf')
+
+
+
