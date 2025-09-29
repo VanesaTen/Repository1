@@ -1,3 +1,5 @@
+# using two lists
+
 current_users = ['Admin', 'Josh', 'Jim', 'Amy', 'Ruby']
 
 new_users = ['Bob', 'Jose', 'Becky', 'Rob', 'Ruby']
@@ -10,4 +12,5 @@ for new_user in new_users:
         print(f"Username {new_user} already taken.")
     else:
         print(f"Username {new_user} available")
+
 
