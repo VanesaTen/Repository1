@@ -1,3 +1,4 @@
+# earning points using if-elif-else
 age = 13
 
 if age < 2:
@@ -12,3 +13,4 @@ elif age < 65:
     print("This is an adult")
 else:
     print("Its a elder!")
+
